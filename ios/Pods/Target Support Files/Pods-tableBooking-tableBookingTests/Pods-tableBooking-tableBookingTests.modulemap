@@ -1,0 +1,6 @@
+module Pods_tableBooking_tableBookingTests {
+  umbrella header "Pods-tableBooking-tableBookingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
